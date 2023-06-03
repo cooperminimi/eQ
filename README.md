@@ -1,1 +1,1 @@
-# eQ
+# eQ for Jenda
